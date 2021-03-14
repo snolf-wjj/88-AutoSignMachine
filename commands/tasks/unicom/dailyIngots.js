@@ -144,7 +144,7 @@ var dailyIngots = {
             acid: 'AC20200716103629',
             taskId: '56ff7ad4a6e84886b18ae8716dfd1d6d',
             codeId: 945757409,
-            reward_name: '联通老总求封号'
+            reward_name: '安柠牛逼'
         })
     },
     doSignin: async (axios, options) => {

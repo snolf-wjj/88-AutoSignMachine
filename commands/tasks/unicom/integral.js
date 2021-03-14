@@ -272,7 +272,7 @@ var integral = {
       acid: 'AC20200728150217',
       taskId: '528a06737ac24317a3166027c1e3fe06',
       codeId: 945510695,
-      reward_name: '联通老总求封号'
+      reward_name: '安柠牛逼'
     })
 
     let { data } = await axios.request({
@@ -307,7 +307,7 @@ var integral = {
       acid: 'AC20200728150217',
       taskId: '5e5b05beb9ae4cdebdaf4ed59da1c697',
       codeId: 945535750,
-      reward_name: '联通老总求封号'
+      reward_name: '安柠牛逼'
     })
 
   }

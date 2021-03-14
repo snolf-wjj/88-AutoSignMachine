@@ -73,7 +73,7 @@ var dailyVideoBook = {
       acid: 'AC20200521222721',
       taskId: '2f2a13e527594a31aebfde5af673524f',
       codeId: 945535616,
-      reward_name: '联通老总求封号'
+      reward_name: '安柠牛逼'
     })
   },
   oauthMethod: async (axios, options) => {
@@ -352,7 +352,7 @@ var dailyVideoBook = {
       acid: 'AC20200521222721',
       taskId: '8e374761c0af4d9d9748ae9be7e5a3f8',
       codeId: 945559732,
-      reward_name: '联通老总求封号'
+      reward_name: '安柠牛逼'
     })
   },
   getDays: async (axios, options) => {

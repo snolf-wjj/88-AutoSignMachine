@@ -168,8 +168,8 @@ var dailyLKMH = {
       acid: 'AC20200611152252',
       taskId: '627292f1243148159c58fd58917c3e67',
       codeId: 945535632,
-      reward_name: '联通老总求封号',
-      remark: '联通老总求封号',
+      reward_name: '安柠牛逼',
+      remark: '安柠牛逼',
       limit: 1
     })
   },

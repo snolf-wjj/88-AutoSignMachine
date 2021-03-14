@@ -208,7 +208,7 @@ var dailyTurntablePage = {
       acid: 'AC20200716103629',
       taskId: 'fc32b68892de4299b6ccfb2de72e1ab8',
       codeId: 945535695,
-      reward_name: '联通老总求封号'
+      reward_name: '安柠牛逼'
     })
   }
 }
