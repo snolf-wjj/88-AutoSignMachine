@@ -79,7 +79,7 @@ var daily1GFlowTask = {
                     arguments8: '',
                     arguments9: '',
                     codeId: 945796512,
-                    reward_name: '联通老总求封号',
+                    reward_name: '安柠牛逼',
                     remark: '签到积分翻倍',
                     jar
                 })
